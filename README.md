@@ -54,7 +54,7 @@ II.가상현실 기반 대화형 에이전트 Ellie
 <img width="939" alt="Untitled (3)" src="https://github.com/younkyungkim/Generative-and-retrieval-based-chatbots/assets/141793731/1c7a899d-7f24-4858-9cf2-85f1ee66e569">
 
 
-**“검색형 챗봇이 초기 탈락자가 적었다”**라는 인사이트를 통해 사용 빈도와 만족도를 함께 분석하기 위해 아래와 같은 플롯을 생성하였다.
+**“검색형 챗봇이 초기 탈락자가 적었다”** 라는 인사이트를 통해 사용 빈도와 만족도를 함께 분석하기 위해 아래와 같은 플롯을 생성하였다.
 
 <img width="940" alt="Untitled (4)" src="https://github.com/younkyungkim/Generative-and-retrieval-based-chatbots/assets/141793731/53c28d4b-b226-4d6b-b027-26764d9b16e2">
 
